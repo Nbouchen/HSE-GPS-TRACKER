@@ -1,0 +1,6 @@
+{
+  "name": "HSE GPS Tracker - Holcim",
+  "description": "Tableau de bord de suivi GPS et de contrôle HSE pour Holcim El Djazaïr. Supervision en temps réel des zones de travail, présences terrain et alertes de risques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
